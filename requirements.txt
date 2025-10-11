@@ -1,0 +1,15 @@
+pandas
+numpy
+plotly
+streamlit
+yfinance
+scikit-learn
+prophet
+xgboost
+tensorflow-cpu
+langchain
+openai
+chromadb
+faiss-cpu
+python-dotenv
+pydantic
