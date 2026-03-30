@@ -1,4 +1,5 @@
 ﻿#  Agentic AI Financial Analyst
+ Author: Diran Srinath Reddy
 
 <div align="center">
 
@@ -309,7 +310,8 @@ python main.py --ticker AAPL --period 5y --horizon 30
    - \metrics.json\ - Performance statistics
    - \orecast_comparison.png\ - Chart comparing models
    - \djusted_close.png\ - Historical price chart
-   - \eport.md\ - Automated analysis report
+   - \
+eport.md\ - Automated analysis report
 
 #### With Agentic Orchestration
 
@@ -679,7 +681,8 @@ The agentic system has access to:
 | \data_analyzer\ | Statistical analysis | Compute mean, std, skewness |
 | \model_selector\ | Choose best model | Based on data patterns |
 | \hyperparameter_tuner\ | Optimize params | Grid search with CV |
-| \eport_generator\ | Create summaries | Natural language insights |
+| \
+eport_generator\ | Create summaries | Natural language insights |
 | \isualizer\ | Generate charts | Plotly interactive plots |
 
 ---
